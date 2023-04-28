@@ -1,0 +1,18 @@
+.container{
+    width: 1140px;
+    margin: auto;
+}
+.table{
+    justify-content: center;
+    align-items: center;
+    padding: 114px;
+    background: url(./img/9X-xxPr9qsWMgPxaENhN3OvxYZiEQWqm\ \(1\).jpg);
+    background-repeat: no-repeat;
+    margin-left: 38~~~0px;
+    margin-top: 300px;
+}
+.table:hover{
+    cursor: pointer;
+    border: 3px 3px solid;
+    border-radius: 15px;
+}
